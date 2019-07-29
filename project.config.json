@@ -1,6 +1,7 @@
 {
     "description": "项目配置文件。",
-    "setting": {
+   "cloudfunctionRoot": "cloudfunctions/",
+  "setting": {
         "urlCheck": true,
         "es6": false,
         "postcss": true,
@@ -9,7 +10,7 @@
     },
     "miniprogramRoot": "dist/wx/",
     "compileType": "miniprogram",
-    "appid": "touristappid",
+    "appid": "wxc793f19b273c8d48",
     "projectname": "x-demo1",
     "condition": {
         "search": {
